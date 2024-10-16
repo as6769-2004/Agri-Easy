@@ -58,9 +58,9 @@ AgriEasy is an innovative mobile application designed to support farmers in impr
    ```bash
    flutter pub get
 5. *Set up an emulator or connect a physical device*:
-   -Launch an Android/iOS emulator, or
-   -Connect a physical device (ensure Developer Mode and USB debug are enabled).
-6. *Run the app*
+   - Launch an Android/iOS emulator, or
+   - Connect a physical device (ensure Developer Mode and USB debug are enabled).
+7. *Run the app*
    ```bash
    flutter run
 
