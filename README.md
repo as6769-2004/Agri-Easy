@@ -1,7 +1,7 @@
 # AgriEasy 🌿
 
 ### Download the Product APK *[Download APK](https://drive.google.com/file/d/1bfQmXp1_atfekfN6aJXCL4UefbwuQDZY/view?usp=drive_link)*  
-### Hosted Website *[AgriEasy Website](https://quantathon-o.devfolio.co/)*
+### Hosted Hackhathon *[Quantathon 2.0](https://quantathon-o.devfolio.co/)*
 
 ---
 
