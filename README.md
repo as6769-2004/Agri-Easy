@@ -1,6 +1,6 @@
 # AgriEasy 🌿
 
-### Download the Product APK *[Download APK](https://www.dropbox.com/s/guum0mn3mv0hs7j/app-release.apk?dl=0](https://drive.google.com/file/d/1bfQmXp1_atfekfN6aJXCL4UefbwuQDZY/view?usp=drive_link)*  
+### Download the Product APK *[Download APK](https://drive.google.com/file/d/1bfQmXp1_atfekfN6aJXCL4UefbwuQDZY/view?usp=drive_link)*  
 ### Hosted Website *[AgriEasy Website](https://quantathon-o.devfolio.co/)*
 
 ---
