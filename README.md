@@ -46,6 +46,23 @@ AgriEasy is an innovative mobile application designed to support farmers in impr
 1. *Clone the repository*:
    ```bash
    git clone https://github.com/as6769-2004/CropCare
+2. *Navigate to the project directory*:
+   ```bash
+   cd CropCare/AgriEasy-master/agri_easy
+3. *Ensure Flutter is installed and set up:*:
+   - Install Flutter by following the official Flutter *[Flutter installation guide]()*.
+   - Verify your installation:
+   ```bash
+   fluttrt doctor
+4. *Install dependencies*
+   ```bash
+   flutter pub get
+5. *Set up an emulator or connect a physical device:*
+   -Launch an Android/iOS emulator, or
+   -Connect a physical device (ensure Developer Mode and USB debug
+6. *Run the app*
+   ```bash
+   flutter run
 
 ## Screenshots
 
