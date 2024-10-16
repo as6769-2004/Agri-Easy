@@ -53,7 +53,7 @@ AgriEasy is an innovative mobile application designed to support farmers in impr
    - Install Flutter by following the official Flutter *[Flutter installation guide]()*.
    - Verify your installation:
    ```bash
-   fluttrt doctor
+   flutter doctor
 4. *Install dependencies*
    ```bash
    flutter pub get
@@ -63,6 +63,7 @@ AgriEasy is an innovative mobile application designed to support farmers in impr
 7. *Run the app*
    ```bash
    flutter run
+*Thats it.*
 
 ## Screenshots
 
