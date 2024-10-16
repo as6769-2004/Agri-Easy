@@ -100,6 +100,6 @@ AgriEasy is an innovative mobile application designed to support farmers in impr
 
 ### Screenshots
 
-<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Homepage.jpg" height = "500">&nbsp;<img src = "<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Homepage.jpg" height = "500">&nbsp;<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Help%25Supp.jpg" height = "500">&nbsp;<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Ai_chatBot.jpg" height = "500">&nbsp;<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Products.jpg" height = "500">&nbsp;
+<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Homepage.jpg" height = "500">&nbsp;<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Weather.jpg?raw=true" height = "500">&nbsp;<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Help%25Supp.jpg" height = "500">&nbsp;<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Ai_chatBot.jpg" height = "500">&nbsp;<img src = "https://github.com/as6769-2004/CropCare/blob/main/Screenshots/Products.jpg" height = "500">&nbsp;
 
    
